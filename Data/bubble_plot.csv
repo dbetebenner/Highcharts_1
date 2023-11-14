@@ -1,4 +1,4 @@
-"X","Y","BUBBLE_SIZE,BUBBLE_CATEGORY","TOOL_TIP_TEXT_1","TOOL_TIP_TEXT_2"
+"X","Y","BUBBLE_SIZE","BUBBLE_CATEGORY","TOOL_TIP_TEXT_1","TOOL_TIP_TEXT_2"
 2,3,500,4,"School 1","District 1"
 4,5,100,2,"School 2","District 2"
 1,5,250,1,"School 3","District 3"
